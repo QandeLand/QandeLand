@@ -10,7 +10,7 @@ something done until it's verifiable.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qandeeljaved)
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/qan.jav)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:qan.jav@gmail.com)
+![Email](https://img.shields.io/badge/Email-qan.jav%40gmail.com-EA4335?logo=gmail&logoColor=white)
 ![Location](https://img.shields.io/badge/Stockholm-Sweden-006AA7?logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to-On--site%20%26%20Hybrid-brightgreen)
 
